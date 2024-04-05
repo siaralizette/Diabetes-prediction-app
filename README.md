@@ -21,7 +21,7 @@ seaborn~=0.13.2
 
 ## Installation
 
-Clone the repository from yourgit: git clone https://mygit.th-deg.de/ss03006/Recomendation
+Clone the repository from yourgit: git clone https://github.com/siaralizette/Diabetes-prediction-app
 
 Navigate to the project directory: cd <project_directory>
 
